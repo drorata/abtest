@@ -2,6 +2,13 @@
 A/B Testing
 ===========
 
+WORK IN PROGRESS WARNING!
+
+If you have questions, ideas, comments then I would love to hear from you!
+You can either use the issues or send me an email drorata@gmail.com.
+
+Thanks!
+
 
 .. image:: https://img.shields.io/pypi/v/abtest.svg
         :target: https://pypi.python.org/pypi/abtest
