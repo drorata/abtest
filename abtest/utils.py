@@ -78,5 +78,5 @@ def manual_z_score(data):
     p_c, p_v = data.Converted / data.Visited
     c_t, v_t = data.Visited
     p = (c_t * p_c + v_t * p_v) / (c_t + v_t)
-    z = (p_c - p_v) / np.sqrt( (p * (1 - p)) / c_t + ((p * (1 - p)) / v_t ))
+    z = (p_c - p_v) / np.sqrt((p * (1 - p)) / c_t + ((p * (1 - p)) / v_t))
     return z
