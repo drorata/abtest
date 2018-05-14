@@ -1,11 +1,7 @@
 # A/B Testing
 
-**WORK IN PROGRESS WARNING!**
-
-If you have questions, ideas, comments then I would love to hear from you!
+Questions, ideas and comments are welcomed.
 You can either use the issues or send me an email drorata@gmail.com.
-
-Thanks!
 
 ## The notebooks
 
